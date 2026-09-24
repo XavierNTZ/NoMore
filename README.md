@@ -14,7 +14,7 @@ This repository currently documents the project vision and proposed development 
 
 All application features described below are **planned**, not implemented or verified by this documentation. The project does not claim an established user community, adoption metrics, a security certification or medical effectiveness.
 
-An open-source release is intended. The licence remains to be selected and added; see [Licensing status](LICENSING.md).
+The NoMore project material published in this repository is licensed under the **GNU Affero General Public License, version 3 only (AGPL-3.0-only)**, subject to separately identified third-party notices. See [LICENSE](LICENSE) for the complete terms and [LICENSING.md](LICENSING.md) for scope and contribution information. Licensing the documentation does not mean that an application has already been implemented or released.
 
 ## Why this project
 

@@ -14,7 +14,7 @@ Ce dépôt présente le projet, son périmètre et ses exigences de développeme
 
 Les fonctionnalités décrites ci-dessous sont **prévues**, et non présentées comme développées ou vérifiées. Le projet ne revendique ni communauté d’utilisateurs établie, ni chiffres d’adoption, ni certification de sécurité, ni efficacité médicale démontrée.
 
-La publication sous licence open source est envisagée. La licence doit encore être choisie et ajoutée au dépôt ; voir [LICENSING.md](LICENSING.md).
+Les éléments du projet NoMore publiés dans ce dépôt sont placés sous **GNU Affero General Public License, version 3 uniquement (AGPL-3.0-only)**, sous réserve des notices distinctes des composants tiers. Le texte complet figure dans [LICENSE](LICENSE) et les précisions de périmètre dans [LICENSING.md](LICENSING.md). La mise sous licence de cette documentation ne signifie pas qu’une application a déjà été développée ou livrée.
 
 ## Intention du projet
 

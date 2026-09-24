@@ -10,11 +10,12 @@
 - Initial sequence: alcohol, tobacco, gambling.
 - Initial language targets: French, English, Spanish.
 - Proposed foundation: PHP, MySQL/MariaDB, HTML/CSS/JavaScript.
-- Intended free-access service and open-source publication, subject to licence selection and release preparation.
+- Intended free-access service; published project material under AGPL-3.0-only, with third-party notices preserved. Application implementation and release preparation remain pending.
 
 ## Milestone 1 — Publish a trustworthy foundation
 
-- [ ] Select and publish an appropriate open-source licence after checking rights and compatibility.
+- [ ] Verify that LICENSE contains the complete GNU AGPL v3 text and that project notices consistently specify AGPL-3.0-only.
+- [ ] Document the actual rights holders and review the origin and licence compatibility of every component before adding application code.
 - [ ] Define release scope, repository structure and contribution process.
 - [ ] Define data categories, access boundaries, retention and deletion requirements.
 - [ ] Review safety wording and support-resource selection with appropriate expertise.

@@ -2,7 +2,11 @@
 
 [Présentation en français](README.fr.md) · [Roadmap](ROADMAP.md)
 
-NoMore is in its documentation and planning stage. The open-source licence still needs to be selected; see [LICENSING.md](LICENSING.md). Do not assume that publication of this repository resolves contribution or reuse rights.
+NoMore is in its documentation and planning stage. Project material is licensed under the **GNU Affero General Public License, version 3 only (AGPL-3.0-only)**. Read [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md).
+
+Contributions submitted for inclusion in NoMore are to be provided under AGPL-3.0-only, unless a different, compatible third-party licence is clearly identified and agreed before inclusion. Submit only material you are authorised to contribute, retain existing attribution and licence notices, and identify third-party sources. Contributors retain their copyright; contributing does not transfer it to the maintainer.
+
+These guidelines describe which contributions the project accepts. They do not add restrictions to the rights granted by LICENSE. AI assistance does not remove the need to check provenance, rights, security or accuracy.
 
 ## Useful early contributions
 
