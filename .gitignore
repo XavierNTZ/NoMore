@@ -1,0 +1,61 @@
+# NoMore — local Git exclusions, not a security boundary.
+# Review all files before committing or uploading through the browser.
+# Already tracked files and browser uploads are not protected by these rules.
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+/config/config.php
+/config/*.local.php
+/auth.json
+
+# Private keys and certificate containers
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Runtime and private material
+/storage/
+/private/
+/secrets/
+/backups/
+/dumps/
+/exports/
+/uploads/
+*.log
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.dump
+*.bak
+*.old
+
+# Keep reviewed SQL schema/migrations and synthetic test fixtures trackable.
+# Never add real data, including to a file named schema.sql or seed.sql.
+
+# Dependencies and generated output
+/vendor/
+/node_modules/
+/coverage/
+/.phpunit.cache/
+.phpunit.result.cache
+
+# Local tooling and operating-system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Release archives are not source files
+*.zip
+*.7z
+*.tar.gz
